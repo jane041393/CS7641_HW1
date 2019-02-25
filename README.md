@@ -1,2 +1,2 @@
-# CS7641_HW1
-thuang319
+# Machine Learning
+# MachineLearning
